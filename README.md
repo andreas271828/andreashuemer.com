@@ -1,0 +1,50 @@
+# Notes
+
+- Who am I writing to?
+  - Parents similar to myself (interested in homeschooling)
+  - Focus on specific location where people can meet in real life
+- Raising Happy Future Leaders
+  - Global citizens
+  - Healthy and happy
+  - Effective and efficient collaboration: sharing, open source, innovation
+  - Contributing to creating a better world: quality of life, sustainability
+  - Many ways to contribute: teach, manage, create, entertain, ...
+  - Autonomous, independent
+- Why am I writing this?
+  - My reasons (situation of the world; helping others; contribution/legacy)
+  - My values
+  - My vision and mission
+- Use stories
+- Core drivers for motivation/passion
+  - Purpose
+  - Autonomy
+  - Mastery
+- Topics:
+  - Parenting
+  - Teaching
+  - Collaborating in real-world projects (governance, communication, business)
+- Services:
+  - Free information
+  - Platform for parents and teachers (free and paid memberships)
+  - Talks, training, support (free and paid)
+- Income:
+  - Paid services
+  - Advertisement, affiliate programs (e.g. https://affiliate-program.amazon.com/)
+- Approach:
+  - Build basic skills and knowledge in a playful way
+    - Good general understanding how the world works
+    - Critical thinking and skills for autonomous learning
+    - Life skills
+    - Healthy lifestyle
+    - Sales skills
+  - Specialisation for mastery in a few key areas
+    - Passion
+    - Opportunity to make a living
+- Homeschooling
+  - https://en.wikipedia.org/wiki/Unschooling
+  - http://theeducatingparent.com/2018TheEducatingParentResourceDirectory.pdf
+  - http://livingjoyfully.ca/
+  - https://www.australiancurriculum.edu.au/
+- Parenting
+  - https://www.amazon.com.au/Steve-Biddulphs-Raising-Girls-womanhood-helping-ebook/dp/B00APBUU04
+  - https://www.amazon.com.au/Steve-Biddulphs-Raising-Boys-well-balanced-ebook/dp/B00APS0D4U

@@ -1,8 +1,10 @@
 # Notes
 
 - Who am I writing to?
-  - Parents similar to myself (interested in homeschooling)
-  - Focus on specific location where people can meet in real life
+  - Governments, families, businesses?
+
+
+
 - Raising Happy Future Leaders
   - Global citizens
   - Healthy and happy

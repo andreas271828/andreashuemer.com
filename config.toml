@@ -1,4 +1,4 @@
-title = "Andreas Huemer"
+title = "Smart Cities for Happy People"
 baseURL = "http://andreashuemer.com"
 theme = "bilberry-hugo-theme"
 
@@ -26,8 +26,8 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Andreas Huemer"
-  description = "Raising happy and successful children"
-  keywords = "blog,global,citizen,cosmopolitan,happy,successful,parenting,teaching,mastery,pupose,autonomy,leader,passion"
+  description = "How can we create Smart Cities that actually make us happier?"
+  keywords = "smart city,smart cities,happiness,well-being,life satisfaction,quality of life,architecture,iot,distributed systems,citizens,residents,smart suburb,smart suburbs,smart town,smart towns,smart district,smart districts"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -43,7 +43,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "A blog about raising happy and successful children"
+    subtitle = "Strategies for Smart Cities that actually make us happier"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""

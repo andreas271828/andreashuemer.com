@@ -1,6 +1,6 @@
 ---
 title: "This will be my first article"
-date: 2018-03-03T00:00:00+10:00
+date: 2018-05-20T12:00:00+10:00
 
 featuredImage: ""
 categories: []
